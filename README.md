@@ -11,7 +11,6 @@ Aqui vou concentrar os exercícios práticos, testes de código e anotações qu
 Cada pasta correspondente ao módulo pode conter:
 - exercícios resolvidos  
 - códigos de exemplo  
-- pequenos projetos de prática  
 
 ## Objetivo
 
