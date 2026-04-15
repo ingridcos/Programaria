@@ -4,7 +4,7 @@
 
 Os dashboards deste projeto foram desenvolvidos no **Looker Studio (antigo Data Studio)** a partir da base de dados da pesquisa de **Análise de Diversidade 2022 da DataHackers**.
 
-A planilha utilizada como fonte de dados para os dashboards é **Análise de Diversidade 2022 - DataHackers**, disponível no Google Sheets:
+A planilha utilizada como fonte de dados para os dashboards é **Análise de Diversidade 2022 - DataHackers** disponível no Google Sheets:
 
 [Análise de Diversidade 2022 - DataHackers](https://docs.google.com/spreadsheets/d/1TMZNtx7xLOQnAa_riLET2ptqhNcWE8VJgSMxgeyhjPM/edit?usp=drive_link)
 
