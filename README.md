@@ -83,12 +83,11 @@ Cada pasta pode conter:
 
 ---
 
-## 🚀 Próximos passos
+## 🚀 Mini-Projeto
 
-* Desenvolver projetos com dados reais
-* Criar dashboards interativos
-* Publicar análises completas no GitHub
-* Evoluir para projetos de Machine Learning
+* Construção do projeto **Análise de Diversidade 2022**
+* Uso de todas as tecnologias acima mencionadas
+* Visualização do projeto feito no Loocker Studio
 
 ---
 
