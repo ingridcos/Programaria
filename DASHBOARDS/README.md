@@ -21,7 +21,7 @@ Construímos painéis interativos com análises de:
 
 O dashboard completo pode ser acessado no link abaixo:
 
-**ashboard interativo no Looker Studio:**  
+**Dashboard interativo no Looker Studio:**  
 
 [Análise de Diversidade 2022 - Curso de Dados Programaria](https://datastudio.google.com/reporting/476296a9-fcef-4a5e-9493-19715d4f6048)
 
