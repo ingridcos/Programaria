@@ -96,7 +96,7 @@ Cada pasta pode conter:
 ## ✅ Plano de Estudos
 
 O plano de estudos do curso Programaria foi organizado nesta planilha no Google Sheets:  
-[Planilha de plano de estudos](https://docs.google.com/spreadsheets/d/1l6z_W1r6ShTPQjGctLZpsQRvJ8ffY-Y6DEEVrEEyWcQ/edit?usp=sharing).
+[Planilha de plano de estudos](https://docs.google.com/spreadsheets/d/1l6z_W1r6ShTPQjGctLZpsQRvJ8ffY-Y6DEEVrEEyWcQ/edit?usp=sharing)
 
 ---
 
