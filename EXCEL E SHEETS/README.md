@@ -24,6 +24,6 @@ Além das tabelas, desenvolvemos diversos gráficos exploratórios a partir dos 
 
 ---
 
-Também fizemos uma análise exploratória desta planilha de **Municípios Brasileiros**, focada em correlacionar **Educação X Renda nos Municípios e Regiões Brasileiras** incluindo a criação de gráficos e resumos visuais dos dados:
+Também fizemos uma análise exploratória desta planilha de **Municípios Brasileiros**, focada em verificar a relação entre **Educação X Renda nos Municípios e Regiões Brasileiras** incluindo a criação de gráficos e resumos visuais dos dados:
 
 [Municípios e Regiões Brasileiras - Educação X Renda - Análise exploratória no Google Sheets](https://docs.google.com/spreadsheets/d/1FKfxmQdB7VLnbvrl8UHlDdgE7I6h1l0e1uKZLJ4B8eE/edit?usp=drive_link)
