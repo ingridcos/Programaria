@@ -48,7 +48,7 @@ Cada pasta pode conter:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias utilizadas
 
 ### 🧠 Linguagem de Programação
 
