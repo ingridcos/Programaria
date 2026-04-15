@@ -1,4 +1,4 @@
-![Logo Programaria](logo-programaria-roxo.png)
+![Logo Programaria](IMAGENS/logo-programaria-roxo.png)
 
 # 🌱 Programaria - Meus primeiros passos em Python para Análise de Dados
 
