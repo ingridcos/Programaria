@@ -1,5 +1,4 @@
 # Programaria
-# Programaria – Exercícios dos Módulos 
 
 Este repositório foi criado para **fixar os conteúdos estudados** de todos os módulos do curso Programaria.  
 Aqui vou concentrar os exercícios práticos, testes de código e anotações que me ajudam a revisar e consolidar o aprendizado.
