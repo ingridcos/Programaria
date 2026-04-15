@@ -2,7 +2,7 @@
 
 # 🌱 Programaria - Meus primeiros passos em Python para Análise de Dados
 
-Fui contemplada com uma bolsa de estudos para o curso **"Meus Primeiros Passos em Python para Análise de Dados"** oferecido pela Programaria — uma organização dedicada à diversidade e inclusão no universo da tecnologia.
+Fui contemplada com uma bolsa de estudos para o curso **Meus Primeiros Passos em Python para Análise de Dados** oferecido pela Programaria — uma organização dedicada à diversidade e inclusão no universo da tecnologia.
 
 ---
 
