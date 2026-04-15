@@ -9,7 +9,9 @@ Fui contemplada com uma bolsa de estudos para o curso **Meus Primeiros Passos em
 ## 📚 Sobre o Curso
 
 * **Plataforma:** Programaria
-* **Foco:** Introdução ao Python aplicado à análise de dados
+* **Foco:** Introdução ao Python aplicado à Análise de Dados
+* **Projeto Desenvolvido:** Análise de Diversidade 2022
+* **Base de Dados:** DataHackers - https://www.datahackers.com.br/
 * **Objetivos:**
 
   * Aprender lógica de programação com Python
