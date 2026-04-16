@@ -8,7 +8,7 @@ A planilha utilizada como fonte de dados para os dashboards é **Análise de Div
 
 [Análise de Diversidade 2022 - DataHackers](https://docs.google.com/spreadsheets/d/1TMZNtx7xLOQnAa_riLET2ptqhNcWE8VJgSMxgeyhjPM/edit?usp=drive_link)
 
-Construímos painéis interativos com análises de:
+Foram construídos painéis interativos com análises de:
 
 - Gênero x Etnia
 - Distribuição de pessoas por região do Brasil
