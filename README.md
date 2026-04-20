@@ -89,6 +89,8 @@ Cada pasta pode conter:
 
 ## 🚀 Mini-Projeto
 
+[Análise de Diversidade 2022 - Curso de Dados Programaria](https://datastudio.google.com/reporting/476296a9-fcef-4a5e-9493-19715d4f6048)
+
 * Construção do projeto **Análise de Diversidade 2022**
 * Uso de todas as tecnologias acima mencionadas
 * Visualização do projeto feito no Loocker Studio
