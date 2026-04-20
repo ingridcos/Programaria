@@ -2,7 +2,9 @@
 
 # Programaria - Meus primeiros passos em Python para Análise de Dados
 
-Fui contemplada com uma bolsa de estudos para o curso **Meus Primeiros Passos em Python para Análise de Dados** oferecido pela Programaria — uma organização dedicada à diversidade e inclusão no universo da tecnologia.
+A PrograMaria é uma iniciativa brasileira que busca aumentar a presença de mulheres na tecnologia por meio de cursos, eventos e ações de engajamento focadas em inclusão e diversidade na área. A organização oferece formações introdutórias em programação e tecnologia para quem está começando do zero, além de promover eventos para networking e troca de experiências com a comunidade.
+
+Fui contemplada com uma bolsa de estudos para o curso **“Meus Primeiros Passos em Python para Análise de Dados”**, oferecido pela PrograMaria, com duração de dois meses, no qual aprendi fundamentos de análise de dados, Python e bibliotecas como `pandas` e `numpy`.  Ao final do curso, desenvolvi e entreguei um miniprojeto sobre diversidade na tecnologia, voltado para aplicação prática dos conteúdos e construção de portfólio na área de dados.
 
 ---
 
