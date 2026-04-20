@@ -102,6 +102,20 @@ O plano de estudos do curso Programaria foi organizado nesta planilha no Google 
 
 ---
 
+## 👩‍💻 Sobre Mim
+
+- Administradora formada pela UniCarioca  
+- Técnica em **Secretariado** pelo CETAP EAD RJ
+- Formada no curso de Comissário de Bordo pela Fly Escola de Aviação do RJ
+- Bootcamp de **Business Intelligence** (WoMakersCode)  
+- Curso **Python para Análise de Dados** (PrograMaria) 
+- Desenvolvimento de projetos práticos voltados à análise e visualização de dados
+---
+
+## 🌱 Comunidade e iniciativas
+
+Participo de iniciativas que incentivam a presença feminina na tecnologia, como **WoMakersCode** e **PrograMaria**, buscando aprendizado contínuo e networking na área.
+
 ## 💡 Observação
 
 Este repositório representa minha jornada de aprendizado em análise de dados e meu compromisso com evolução contínua na área de tecnologia.
